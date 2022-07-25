@@ -11,4 +11,5 @@ creating a  simple tic tac toe game using cpp.
  The opponent will choose the position accordingly and place it with the mark "X".</br>
  The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.</br>
  If there is no chance of getting three marks in a row but all the grids are filled then the game is condsidered as draw.</br>
-# screenshots
+# screenshot
+![image](https://user-images.githubusercontent.com/104454045/180857323-8b3530e7-20f5-47f1-b3ef-728098a314e9.png)
